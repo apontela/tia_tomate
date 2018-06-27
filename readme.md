@@ -31,3 +31,7 @@
 ## Página Web
 
 ![Image of Yaktocat](assets/img/IMG_20180626_211811385.jpg)
+
+## Página Mobile
+
+![Image of Yaktocat](assets/img/IMG_20180626_211820663.jpg)
