@@ -35,3 +35,12 @@
 ## Página Mobile
 
 ![Image of Yaktocat](assets/img/IMG_20180626_211820663.jpg)
+
+# Clases Utilizadas
+
+1. Para el navbar utilicé la etiqueta por defecto "nav", y para los componentes: "nav__logo", "nav__list"
+2. Para la primera sección utilicé la etiqueta por defecto "header", y para los componentes: "header__title"
+3. Para la segunda sección utilicé la clase "productos", y para los componentes: "productos__historia", "productos__calidad"
+4. Para la tercera sección utilicé la clase "somos"
+5. Para la cuarta sección utilicé la clase "marketing", y para los componentes: "marketing__testimonios", "marketing__button"
+6. Para la última sección utilicé la clase "footer"
